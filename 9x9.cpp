@@ -1,10 +1,9 @@
-#include <iostream>
 
 using namespace std;
 
 int main() {
 
-	for (int i = 0; i < 9; i++) {
+	for (int i = 0; i < 10; i++) {
 		cout << i << "´Ü" << endl;
 		for (int z = 1; z < 10; z++) {
 			cout << i << " * " << z << " = " << i * z<<endl;
@@ -14,3 +13,11 @@ int main() {
 
 	return 0;
 }
+
+
+
+
+
+
+
+
